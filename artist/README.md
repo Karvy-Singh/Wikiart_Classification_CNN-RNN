@@ -1,6 +1,6 @@
 # TASK1- ARTIST 
 
-**code file:** [artist_final_wOutliers.ipynb](https://github.com/Karvy-Singh/g/blob/main/task1/artist/artist_final_wOutliers.ipynb)
+**code file:** [artist_final_wOutliers.ipynb](https://github.com/Karvy-Singh/Wikiart_Classification_CNN-RNN/blob/main/artist/artist_final_wOutliers.ipynb)
 
 ## Model Performance Summary (Artist Classification)
 

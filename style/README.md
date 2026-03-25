@@ -1,6 +1,6 @@
 # TASK1- STYLE 
 
-**Code File:** [style_final_wOutliers.ipynb](https://github.com/Karvy-Singh/g/blob/main/task1/style/style_final_wOutliers.ipynb)
+**Code File:** [style_final_wOutliers.ipynb](https://github.com/Karvy-Singh/Wikiart_Classification_CNN-RNN/blob/main/style/style_final_wOutliers.ipynb)
 
 ### Metrics:
 

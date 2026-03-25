@@ -1,6 +1,6 @@
 # TASK1: GENRE
 
-**code file:** [genre_final_wOutliers.ipynb](https://github.com/Karvy-Singh/g/blob/main/task1/genre/genre_final_wOutliers.ipynb)
+**code file:** [genre_final_wOutliers.ipynb](https://github.com/Karvy-Singh/Wikiart_Classification_CNN-RNN/blob/main/genre/genre_final_wOutliers.ipynb)
 
 ## Model Performance Summary
 

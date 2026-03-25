@@ -1,6 +1,6 @@
 # TASK1- GENERAL MODEL with combined classification of Artist, Genre, Style
 
-**code file:** [gcomb.ipynb](https://github.com/Karvy-Singh/g/blob/main/task1/combined/gcomb.ipynb)
+**code file:** [gcomb.ipynb](https://github.com/Karvy-Singh/Wikiart_Classification_CNN-RNN/blob/main/combined/gcomb.ipynb)
 
 ## Overall Joint Model Performance
 These metrics represent the model's ability to correctly predict multiple attributes (Artist, Style, and Genre) simultaneously for a single artwork.
