@@ -1,4 +1,4 @@
-# TASK-1: Technical Details
+# Wikiart_Classification_CNN-RNN
 
 ## Overview
 * **Architecture:** ResNet50 → BiGRU (Row) + BiGRU (Column) → Attention Pooling → FC Layer → Output
